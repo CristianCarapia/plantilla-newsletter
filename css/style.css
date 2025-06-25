@@ -50,14 +50,16 @@ img {
 }
 
 footer {
-    background-color: #bbbac1;
-    justify-items: center;
+    display: flex;
+    flex-direction: column;
     margin-top: 50px;
     height: auto;
+    background-color: #bbbac1;
+    align-items: center;
 }
 
+
 .redes {
-    text-align: center;
     display:inline-flex;
     width: 3%;
     margin: 15px 50px;
