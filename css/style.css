@@ -61,14 +61,20 @@ footer {
 
 .redes {
     display:inline-flex;
-    width: 3%;
+    width: 20%;
     margin: 15px 50px;
+}
+
+.redes img {
+    padding: 5px 15px;
+    width: 33%;
 }
 
 footer p {
     width: 60%;
     margin-top: 30px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .unsubscribe {
