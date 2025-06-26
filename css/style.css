@@ -12,6 +12,8 @@ header {
     display: flex;
     justify-content: right;
     padding: 20px 30px;
+    color: #150475;
+    text-decoration: none;
 }
 
 main {
@@ -80,4 +82,5 @@ footer p {
 .unsubscribe {
     text-decoration: none;
     margin-bottom: 40px;
+    color: #150475;
 }
